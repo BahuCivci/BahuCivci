@@ -44,12 +44,6 @@ I bridge the gap between theory and implementation.
 
 ---
 
-### 📄 My CV
-
-You can [view my CV here](./Bahunur%20İPEK_CV.pdf) 📎
-
----
-
 ### 🤝 Collaboration / Consulting
 
 Feel free to reach out via [email](mailto:bahu.civci@gmail.com)  
