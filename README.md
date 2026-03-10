@@ -1,4 +1,4 @@
-# 👩‍💻 Bahunur CİVCİ
+# 👩‍💻 Bahunur Civci
 
 **AI & Software Development Engineer**  
 📍 Ankara, Turkey  
