@@ -1,4 +1,4 @@
-# 👩‍💻 Bahunur İPEK
+# 👩‍💻 Bahunur CİVCİ
 
 **AI & Software Development Engineer**  
 📍 Ankara, Turkey  
