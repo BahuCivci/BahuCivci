@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Hi there! I'm Bahunur — a computer engineer passionate about **machine learning**, **natural language processing (NLP)**, and **large language models (LLMs)**.  
+Hi there! I'm Bahunur — an industrial engineer passionate about **machine learning**, **natural language processing (NLP)**, and **large language models (LLMs)**.  
 Currently, I'm working at MTA (General Directorate of Mineral Research and Exploration) where I develop AI-powered solutions for public-sector and scientific projects.
 
 With a solid academic foundation (MSc from the University of Sussex) and full-stack development experience in .NET Core and MERN,  
